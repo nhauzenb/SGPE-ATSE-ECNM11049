@@ -6,8 +6,8 @@ Make sure you download **R** and learn how to use it **BEFORE** for the first co
 
 0. [Installing and Using R](Lab%200)
 1. Material for [Computer Session 1](Lab%201)
-2. Exercise Sheet for [Computer Session 2](Lab%202)
-3. Exercise Sheet for [Computer Session 3](Lab%203)
-4. Exercise Sheet for [Computer Session 4](Lab%204)
+2. Material for [Computer Session 2](Lab%202)
+3. Material for [Computer Session 3](Lab%203)
+4. Material for [Computer Session 4](Lab%204)
 
-Lab material will be added soon.
+Additional lab material will be added soon.
