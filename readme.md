@@ -14,7 +14,25 @@ We are thankful to Gary Koop, who previously taught this course and developed th
 
 **Office Hours:** Immediately after the lecture or online via Zoom (in this case email in advance)
 
+### Course Organisation
+
 This course takes place in block 4 (semester 2) over six weeks and involves lectures and computer sessions. The lectures are given by Niko Hauzenberger and Ping Wu, while the computer sessions are given by [...]. You can find out more about the teaching team from their websites.
+
+The course will cover four main sets of models: 
+
+1. State space models: Unobserved components and trends
+2. Non-linear time series models: Structural breaks, Markov switching and threshold models, stochastic volatility
+3. Factor models for Big Data: The static and dynamic factor models
+4. Mixed frequency models: Mixed data sampling (MIDAS), the stacked VAR and the state space VAR
+
+Assessment will be through a final 2-hour exam in the April/May Diet worth 100% of the grade.
+
+### Reading List
+
+The primary reading for the course is: [*Ghysels, E. and Marcellino, M. (2018) Applied Economic Forecasting Using Time Series Methods.*](https://global.oup.com/academic/product/applied-economic-forecasting-using-time-series-methods-9780190622015?cc=gb&lang=en&) 
+
+Another good textbook which covers much of the course material is: [*Tsay, R. (2010) Analysis of Financial Time Series (third edition).*](https://www.wiley.com/en-gb/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354)
+
 
 
 ### Material for Computer Sessions
