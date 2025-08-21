@@ -4,17 +4,17 @@ This is a course in advanced time series econometrics with a focus on the models
 
 We are thankful to Gary Koop, who previously taught this course and developed the core teaching materials for this class!
 
-### Contact Information
+### Teaching Team
 
-**Lecturer & Course Organiser:** Niko Hauzenberger (niko.hauzenberger@strath.ac.uk)
+**Lecturer & Course Organiser:** Niko Hauzenberger (niko.hauzenberger@strath.ac.uk; https://nhauzenb.github.io/)
 
-**Lecturer:** Ping Wu (ping.wu@strath.ac.uk)
+**Lecturer:** Ping Wu (ping.wu@strath.ac.uk; https://pingwu.org/)
 
 **Tutor:** [...] (x.y@strath.ac.uk)
 
 **Office Hours:** Immediately after the lecture or online via Zoom (in this case email in advance)
 
-This course takes place in block 4 (semester 2) over six weeks and involves lectures and computer sessions. The lectures are given by Niko Hauzenberger and Ping Wu, while the computer sessions are given by [...]. 
+This course takes place in block 4 (semester 2) over six weeks and involves lectures and computer sessions. The lectures are given by Niko Hauzenberger and Ping Wu, while the computer sessions are given by [...]. You can find out more about the teaching team from their websites.
 
 
 ### Material for Computer Sessions
