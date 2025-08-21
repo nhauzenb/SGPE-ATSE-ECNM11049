@@ -1,4 +1,4 @@
-## SGPE: Advanced Time Series Econometrics (G. Koop, N. Hauzenberger, P. Wu)
+## SGPE ECNM11049: Advanced Time Series Econometrics (N. Hauzenberger & P. Wu)
 
 ### Material for Computer Sessions
 
