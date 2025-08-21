@@ -2,6 +2,17 @@
 
 We are thankful to Gary Koop, who previously taught this course and developed the core teaching materials for this class!
 
+### Contact Information
+
+Niko Hauzenberger (niko.hauzenberger@strath.ac.uk)
+
+Ping Wu (ping.wu@strath.ac.uk)
+
+**Office hours:** Immediately after the lecture or online via Zoom (in this case email in advance)
+
+
+
+
 ### Material for Computer Sessions
 
 Make sure you download **R** and learn how to use it **BEFORE** for the first computer session. Instructions provided in Lab 0. 
