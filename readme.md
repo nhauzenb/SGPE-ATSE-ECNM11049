@@ -21,7 +21,7 @@ This course takes place in block 4 (semester 2) over six weeks and involves lect
 The course will cover four main sets of models: 
 
 1. State space models: Unobserved components and trends
-2. Non-linear time series models: Structural breaks, Markov switching and threshold models, stochastic volatility
+2. Nonlinear time series models: Structural breaks, Markov switching and threshold models, stochastic volatility
 3. Factor models for Big Data: The static and dynamic factor models
 4. Mixed frequency models: Mixed data sampling (MIDAS), the stacked VAR and the state space VAR
 
@@ -33,7 +33,14 @@ The primary reading for the course is: [*Ghysels, E. and Marcellino, M. (2018) A
 
 Another good textbook which covers much of the course material is: [*Tsay, R. (2010) Analysis of Financial Time Series (third edition).*](https://www.wiley.com/en-gb/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354)
 
+### Lecture Slides
 
+1. State Space Models
+2. Nonlinear Time Series Models: Structural Breaks and Treshold Autoregression
+3. Nonlinear Time Series Models: TVP Models and Neural Nets
+4. The Static Factor Model and Principal Components
+5. Factor Models as State Space Models and the Dynamic Factor Model
+6. Mixed Frequency Models
 
 ### Material for Computer Sessions
 
