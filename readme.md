@@ -37,11 +37,11 @@ Another good textbook which covers much of the course material is: [*Tsay, R. (2
 ### Lecture Slides
 
 1. [State Space Models](./Lecture%20Slides/ATSE_State_Space_Models_2025.pdf) 
-2. [Nonlinear Time Series Models: Structural Breaks and Treshold Autoregression](https://www.dropbox.com/scl/fi/iq5ll8bnp3vbpjuq3y8z2/ATSE_Nonlinear_Time_Series_Models_1_2025.pdf?rlkey=q460gl0a63ief3kpb7ewzxzm9&st=ahwtzsho&dl=0)
-3. [Nonlinear Time Series Models: TVP Models and Neural Nets](https://www.dropbox.com/scl/fi/ia8o2klxb750rr9buusvm/ATSE_Nonlinear_Time_Series_Models_2_2025.pdf?rlkey=mhoodwq7fgzc0fropgqg7gnbw&st=g8on7xd5&dl=0)
-4. [The Static Factor Model and Principal Components](https://www.dropbox.com/scl/fi/4jzkisc94yec5fgzidr0d/ATSE_Factor_Models_1_2025.pdf?rlkey=r5xxbf3s2hh8g7ohulukas87j&st=qf63el5l&dl=0)
-5. [Factor Models as State Space Models and the Dynamic Factor Model](https://www.dropbox.com/scl/fi/pmvun7swqi929t6ipbpc2/ATSE_Factor_Models_2_2025.pdf?rlkey=we956b96jmucr7908x3p4pgo5&st=gtrgwgph&dl=0)
-6. [Mixed Frequency Models](https://www.dropbox.com/scl/fi/lhh58ifcmtu5aw4hl5byz/ATSE_State_Space_Models_2025.pdf?rlkey=wryr343kar410c10huzyveqz2&st=kzm8qghh&dl=0)
+2. [Nonlinear Time Series Models: Structural Breaks and Treshold Autoregression](./Lecture%20Slides/ATSE_Nonlinear_Time_Series_Models_1_2025.pdf)
+3. [Nonlinear Time Series Models: TVP Models and Neural Nets](./Lecture%20Slides/ATSE_Nonlinear_Time_Series_Models_2_2025.pdf)
+4. [The Static Factor Model and Principal Components](./Lecture%20Slides/ATSE_Factor_Models_1_2025.pdf)
+5. [Factor Models as State Space Models and the Dynamic Factor Model](./Lecture%20Slides/ATSE_Factor_Models_2_2025.pdf)
+6. [Mixed Frequency Models](./Lecture%20Slides/ATSE_Mixed_Frequency_Models_2025.pdf)
 
 ### Material for Computer Sessions
 
