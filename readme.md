@@ -36,7 +36,7 @@ Another good textbook which covers much of the course material is: [*Tsay, R. (2
 
 ### Lecture Slides
 
-1. [State Space Models](https://www.dropbox.com/scl/fi/lhh58ifcmtu5aw4hl5byz/ATSE_State_Space_Models_2025.pdf?rlkey=wryr343kar410c10huzyveqz2&st=hr92ln5o&dl=0)
+1. [State Space Models](./Lecture%20Slides/ATSE_State_Space_Models_2025.pdf) 
 2. [Nonlinear Time Series Models: Structural Breaks and Treshold Autoregression](https://www.dropbox.com/scl/fi/iq5ll8bnp3vbpjuq3y8z2/ATSE_Nonlinear_Time_Series_Models_1_2025.pdf?rlkey=q460gl0a63ief3kpb7ewzxzm9&st=ahwtzsho&dl=0)
 3. [Nonlinear Time Series Models: TVP Models and Neural Nets](https://www.dropbox.com/scl/fi/ia8o2klxb750rr9buusvm/ATSE_Nonlinear_Time_Series_Models_2_2025.pdf?rlkey=mhoodwq7fgzc0fropgqg7gnbw&st=g8on7xd5&dl=0)
 4. [The Static Factor Model and Principal Components](https://www.dropbox.com/scl/fi/4jzkisc94yec5fgzidr0d/ATSE_Factor_Models_1_2025.pdf?rlkey=r5xxbf3s2hh8g7ohulukas87j&st=qf63el5l&dl=0)
