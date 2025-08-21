@@ -1,5 +1,7 @@
 ## SGPE ECNM11049: Advanced Time Series Econometrics (N. Hauzenberger & P. Wu)
 
+We are thankful to Gary Koop, who previously taught this course and developed the core teaching materials for this class!
+
 ### Material for Computer Sessions
 
 Make sure you download **R** and learn how to use it **BEFORE** for the first computer session. Instructions provided in Lab 0. 
