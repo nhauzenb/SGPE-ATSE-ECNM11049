@@ -1,6 +1,6 @@
 # SGPE ECNM11049: Advanced Time Series Econometrics (ATSE) 
+# Academic Year 2025/26
 ## N. Hauzenberger & P. Wu
-## Academic Year 2025/26
 
 
 This is a course in advanced time series econometrics with a focus on the models used in macroeconomics and finance. It will cover four main classes of models: state space models, nonlinear time series models, factor models, and models for use with mixed frequency data. The focus of the course will be on using these models in practice. To this end, the lectures will discuss the models and their properties and show how to estimate and forecast with them using **R**. In addition to 14 hours of lectures, the course will include four hours of computer labs where students will gain experience in working with these models. The course will be assessed through a final exam.
