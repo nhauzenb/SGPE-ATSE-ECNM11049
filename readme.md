@@ -32,9 +32,9 @@ Assessment will be through a final 2-hour exam in the April/May Diet worth 100% 
 
 ### Reading List
 
-The primary reading for the course is: [*Ghysels, E. and Marcellino, M. (2018) Applied Economic Forecasting Using Time Series Methods.*](https://global.oup.com/academic/product/applied-economic-forecasting-using-time-series-methods-9780190622015?cc=gb&lang=en&) 
+The primary reading for the course is: [*Ghysels, E. and Marcellino, M. (2018) Applied Economic Forecasting Using Time Series Methods*](https://global.oup.com/academic/product/applied-economic-forecasting-using-time-series-methods-9780190622015?cc=gb&lang=en&).
 
-Another good textbook which covers much of the course material is: [*Tsay, R. (2010) Analysis of Financial Time Series (third edition).*](https://www.wiley.com/en-gb/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354)
+Another good textbook which covers much of the course material is: [*Tsay, R. (2010) Analysis of Financial Time Series (third edition)*](https://www.wiley.com/en-gb/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354).
 
 ### Lecture Slides
 
