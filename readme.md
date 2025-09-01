@@ -1,4 +1,4 @@
-# SGPE ECNM11049: Advanced Time Series Econometrics (ATSE) 
+# Advanced Time Series Econometrics (ATSE) 
 # Academic Year 2025/26
 ## N. Hauzenberger & P. Wu
 
