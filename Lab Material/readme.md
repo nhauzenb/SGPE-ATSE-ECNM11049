@@ -1,4 +1,4 @@
-# Advanced Time Series Econometrics (ATSE) – Lab 1
+# Advanced Time Series Econometrics (ATSE) – Computer Labs
 # Academic Year 2025/26
 ## N. Hauzenberger & P. Wu
 
