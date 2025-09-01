@@ -1,4 +1,4 @@
-# Advanced Time Series Econometrics (ATSE) 
+# Advanced Time Series Econometrics (ATSE) – Lab 3
 # Academic Year 2025/26
 ## N. Hauzenberger & P. Wu
 
