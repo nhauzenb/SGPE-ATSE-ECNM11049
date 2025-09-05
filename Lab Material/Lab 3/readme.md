@@ -4,3 +4,6 @@
 
 ### [Lab No. 3 - Static factor models (Instructions)](./ECNM11049-Lab3.pdf)
 ### [Lab No. 3 - Static factor models (R markdown)](./ECNM11049-Lab3.html)
+### [Lab No. 3 - Static factor models (Material)]([./ECNM11049-Lab3.html](https://github.com/nhauzenb/SGPE-ECNM11049/tree/main/Lab%20Material/Lab%203))
+
+
